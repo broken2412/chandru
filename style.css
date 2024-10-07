@@ -1,0 +1,23 @@
+h1{
+    font-family: roboto, Oxygen, Ubuntu, Cantarell  ;
+    font-style:italic ;
+    font-weight: 2000px;
+    background-color: rgb(243, 240, 237);
+    color:black;
+}
+#p1{
+    font-family:roboto, Tahoma, sans-serif;
+    font-size:large;
+    font-weight:2000px;
+    font-style:bold;
+    font-style:italic;
+    
+
+}
+body{
+    background-color: rgb(214, 242, 187);
+}
+#videofile{
+    
+    color: aqua;
+}
